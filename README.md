@@ -14,7 +14,7 @@
 * 🌐 Over six years of experience in technical support and networking at Cisco Meraki.
 * 🔍 Background in network troubleshooting, packet analysis, and cloud networking technologies.
 * 🚀 Developing practical skills across DevOps, cloud infrastructure, and modern software delivery practices.
-* 📚 Building my knowledge through structured learning and hands-on practice.
+* 📚 Building my knowledge through structured learning and hands on practice.
 * 🎯 Working towards building practical experience in DevOps and cloud engineering.
 
 ### 📚 Currently Learning
